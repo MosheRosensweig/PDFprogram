@@ -1,0 +1,15 @@
+API
+1] A parser class - take in commands and wrap them in a parser object
+2] Booklet creator class  
+	- get the document
+	- figure out what order the pages should be in
+	- reorganizes the pages
+	- save it to inputted location
+	- output message
+3] PDF combiner class
+//fill in goals
+4] Terminal Output Class
+//fill in goals
+
+
+
