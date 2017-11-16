@@ -1,5 +1,6 @@
 API
 1] A parser class - take in commands and wrap them in a parser object
+-- Driver class
 2] Booklet creator class  
 	- get the document
 	- figure out what order the pages should be in
@@ -8,8 +9,6 @@ API
 	- output message
 3] PDF combiner class
 //fill in goals
+--Page numbering class
 4] Terminal Output Class
 //fill in goals
-
-
-
