@@ -1,14 +1,23 @@
 API
 1] A parser class - take in commands and wrap them in a parser object
--- Driver class
-2] Booklet creator class  
+//fill in goals
+
+2] Driver class
+//fill in goals - generally, this is the main class that runs the program
+
+3] Booklet creator class  
 	- get the document
-	- figure out what order the pages should be in
-	- reorganizes the pages
+	- put them 2 on a page
+	- figure out what order the pages should be in (take into account it needs to be a multiple of 4
+	- reorganize the pages
+	- turn the even pages 180 degrees
 	- save it to inputted location
 	- output message
-3] PDF combiner class
+
+4] PDF combiner class
 //fill in goals
---Page numbering class
-4] Terminal Output Class
+
+5] Page numbering class
+
+6] Terminal Output Class
 //fill in goals
